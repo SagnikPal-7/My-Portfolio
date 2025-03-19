@@ -68,13 +68,13 @@ export const moreProjects = [
     icon: 'shirt',
     href: 'https://github.com/SagnikPal-7/E-Commerce-Website',
   },
-  {
-    id: 2,
-    title: 'Spotify Clone',
-    techStack: 'Next.js 13, Typescript, Tailwind CSS',
-    icon: 'lottery',
-    href: '#',
-  },
+  // {
+  //   id: 2,
+  //   title: 'Spotify Clone',
+  //   techStack: 'Next.js 13, Typescript, Tailwind CSS',
+  //   icon: 'lottery',
+  //   href: '#',
+  // },
   /*{
     id: 3,
     title: 'File Sharing App',
@@ -83,13 +83,13 @@ export const moreProjects = [
     href: '#',
   },*/
 
-  {
-    id: 4,
-    title: 'Snake Game',
-    techStack: 'Next.js 13, Tailwind CSS, Typescript',
-    icon: 'game',
-    href: '#',
-  },
+  // {
+  //   id: 4,
+  //   title: 'Snake Game',
+  //   techStack: 'Next.js 13, Tailwind CSS, Typescript',
+  //   icon: 'game',
+  //   href: '#',
+  // },
 ];
 
 export const frontendCard: ISectionCardData[] = [
@@ -265,14 +265,14 @@ export const devopsCards: ISectionCardData[] = [
 ];
 
 export const web3Cards: ISectionCardData[] = [
-  {
-    id: 1,
-    title: 'Rust',
-    src: '/tech/web3/rust.jpg',
-    exp: '1 day ago',
-    snippetCount: 1128,
-    progress: 90,
-  },
+  // {
+  //   id: 1,
+  //   title: 'Rust',
+  //   src: '/tech/web3/rust.jpg',
+  //   exp: '1 day ago',
+  //   snippetCount: 1128,
+  //   progress: 90,
+  // },
   /*{
     id: 2,
     title: 'Hardhat',
