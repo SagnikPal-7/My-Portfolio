@@ -71,7 +71,7 @@ export const moreProjects = [
   {
     id: 2,
     title: 'Spotify Clone',
-    techStack: 'Next.js 13, Typescript, Tailwind CSS',
+    techStack: 'Next.js, Typescript, Tailwind CSS',
     icon: 'lottery',
     href: '#',
   },
