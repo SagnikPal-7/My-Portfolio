@@ -64,7 +64,7 @@ export const moreProjects = [
   {
     id: 1,
     title: 'E-Commerce Website',
-    techStack: 'Next.js 13, CSS, HTML, Javascript',
+    techStack: 'Next.js, CSS, HTML, Javascript',
     icon: 'shirt',
     href: 'https://github.com/SagnikPal-7/E-Commerce-Website',
   },
@@ -127,7 +127,7 @@ export const frontendCard: ISectionCardData[] = [
   },
   {
     id: 5,
-    title: 'Nextjs 13',
+    title: 'Nextjs',
     src: '/tech/frontend/nextjs13.jpeg',
     exp: '1 day ago',
     snippetCount: 1128,
