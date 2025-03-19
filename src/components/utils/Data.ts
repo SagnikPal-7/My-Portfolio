@@ -47,7 +47,7 @@ export const projectCard: IProjectSectionCardData[] = [
     id: 3,
     title: 'Amazon Clone',
     techStack:
-      'NodeJs, Express, Mongoose, Next.js 13, Typescript, Tailwind CSS',
+      'NodeJs, Express, Mongoose, Next.js, Typescript, Tailwind CSS',
     imageUrl: 'amazon-clone.jpeg',
     href: '#',
   },
