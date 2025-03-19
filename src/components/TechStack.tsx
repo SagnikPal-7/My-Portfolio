@@ -33,19 +33,6 @@ const TechStack: FC<TechStackProps> = ({}) => {
           classaName="bg-[#e0558a]"
           tech={['MySql', 'MongoDB', /*'PostgreSQL', 'Redis', 'Elastic Search'*/]}
         />
-        <TechCard
-          title="Devops"
-          classaName="bg-[#10c0a2]"
-          tech={[
-            /*'Docker',
-            'Kubernetes',*/
-            'GIT',
-            /*'Jenkins',
-            'Ansible',
-            'Terraform',*/
-            'AWS',
-          ]}
-        />
       </div>
     </div>
   );
