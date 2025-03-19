@@ -20,7 +20,7 @@ const TechStack: FC<TechStackProps> = ({}) => {
             'Javascript',
             'Typescript',
             'React Js',
-            'Next Js 13',
+            'Next Js',
           ]}
         />
         <TechCard
