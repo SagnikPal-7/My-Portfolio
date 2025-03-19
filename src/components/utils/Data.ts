@@ -70,7 +70,7 @@ export const moreProjects = [
   },
   {
     id: 2,
-    title: 'sdfdfb',
+    title: 'Spotify Clone',
     techStack: 'Next.js 13, Typescript, Tailwind CSS',
     icon: 'lottery',
     href: '#',
