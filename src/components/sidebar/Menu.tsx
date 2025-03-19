@@ -65,13 +65,13 @@ const Menu: FC<MenuProps> = ({}) => {
       >
         <Youtube color="#e63946" /> Youtube
       </List>
-      <List
+{/*       <List
         target="_blank"
         link="#"
         effect="slideUp"
       >
         <Layers color="#f77f00" /> Stack overflow
-      </List>
+      </List> */}
       <List
         target="_blank"
         link="https://www.linkedin.com/in/sagnik-pal-193a29250"
