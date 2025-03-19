@@ -68,13 +68,13 @@ export const moreProjects = [
     icon: 'shirt',
     href: 'https://github.com/SagnikPal-7/E-Commerce-Website',
   },
-  // {
-  //   id: 2,
-  //   title: 'Spotify Clone',
-  //   techStack: 'Next.js 13, Typescript, Tailwind CSS',
-  //   icon: 'lottery',
-  //   href: '#',
-  // },
+  {
+    id: 2,
+    title: 'sdfdfb',
+    techStack: 'Next.js 13, Typescript, Tailwind CSS',
+    icon: 'lottery',
+    href: '#',
+  },
   /*{
     id: 3,
     title: 'File Sharing App',
