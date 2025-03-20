@@ -56,7 +56,7 @@ export const projectCard: IProjectSectionCardData[] = [
     title: 'Ecommerce-Mern [Under Development]',
     techStack: 'HTML, Nodejs, Express, ReactJS, Tailwind CSS',
     imageUrl: 'ecommerce.png',
-    href: 'https://github.com/SagnikPal-7/Hotstar-Clone',
+    href: 'https://github.com/SagnikPal-7/ecommerce-mern',
   },
 ];
 
