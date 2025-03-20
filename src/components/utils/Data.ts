@@ -49,7 +49,7 @@ export const projectCard: IProjectSectionCardData[] = [
     techStack:
       'NodeJs, Express, Mongoose, Next.js, Typescript, Tailwind CSS',
     imageUrl: 'amazon-clone.jpeg',
-    href: 'https://chat-app-fv9e.onrender.com/',
+    href: 'https://github.com/SagnikPal-7/Chat-app',
   },
   {
     id: 4,
@@ -70,10 +70,10 @@ export const moreProjects = [
   },
   {
     id: 2,
-    title: 'Spotify Clone',
-    techStack: 'Next.js, Typescript, Tailwind CSS',
+    title: 'Hotstar Clone',
+    techStack: 'HTML, CSS, Javascript',
     icon: 'lottery',
-    href: '#',
+    href: 'https://github.com/SagnikPal-7/Hotstar-Clone',
   },
   /*{
     id: 3,
