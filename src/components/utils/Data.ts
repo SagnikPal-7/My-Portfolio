@@ -47,7 +47,7 @@ export const projectCard: IProjectSectionCardData[] = [
     id: 3,
     title: 'Chat App',
     techStack:
-      'NodeJs, Express, Mongoose, Next.js, Typescript, Tailwind CSS',
+      'Mongoose, Express, React.js,NodeJs, Tailwind CSS',
     imageUrl: 'amazon-clone.jpeg',
     href: 'https://github.com/SagnikPal-7/Chat-app',
   },
@@ -64,7 +64,7 @@ export const moreProjects = [
   {
     id: 1,
     title: 'E-Commerce Website',
-    techStack: 'Next.js, CSS, HTML, Javascript',
+    techStack: 'CSS, HTML, Javascript',
     icon: 'shirt',
     href: 'https://github.com/SagnikPal-7/E-Commerce-Website',
   },
