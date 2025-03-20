@@ -45,11 +45,11 @@ export const projectCard: IProjectSectionCardData[] = [
   },*/
   {
     id: 3,
-    title: 'Amazon Clone',
+    title: 'Chat App',
     techStack:
       'NodeJs, Express, Mongoose, Next.js, Typescript, Tailwind CSS',
     imageUrl: 'amazon-clone.jpeg',
-    href: '#',
+    href: 'https://chat-app-fv9e.onrender.com/',
   },
   {
     id: 4,
