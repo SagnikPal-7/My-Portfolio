@@ -48,14 +48,14 @@ export const projectCard: IProjectSectionCardData[] = [
     title: 'Chat App',
     techStack:
       'Mongoose, Express, React.js,NodeJs, Tailwind CSS',
-    imageUrl: 'amazon-clone.jpeg',
+    imageUrl: 'chat-app.jpeg',
     href: 'https://github.com/SagnikPal-7/Chat-app',
   },
   {
     id: 4,
-    title: 'Hotstar Clone',
+    title: 'Ecommerce-Mern [Under Development]',
     techStack: 'HTML, Nodejs, Express, ReactJS, Tailwind CSS',
-    imageUrl: 'hotstar.jpg',
+    imageUrl: 'ecommerce.png',
     href: 'https://github.com/SagnikPal-7/Hotstar-Clone',
   },
 ];
