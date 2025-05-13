@@ -36,13 +36,13 @@ export const projectCard: IProjectSectionCardData[] = [
     imageUrl: 'hero_image.png',
     href: 'https://github.com/SagnikPal-7/Med-On-Time',
   },
-  /*{
+  {
     id: 2,
-    title: 'E-Commerce(Book) [INTERN]',
-    techStack:' HTML, Javascript, Next.js 13, Typescript, Tailwind CSS,',
+    title: 'Financesmart',
+    techStack:'Node js., Tailwind CSS, Express js. MongoDB, JWT, Cloudinary',
     imageUrl: 'book-ecom2.jpg',
-    href: 'https://ecommerce1.techenlighter.com/',
-  },*/
+    href: 'https://financesmart-bc8j.vercel.app/',
+  },
   {
     id: 3,
     title: 'Chat App',
