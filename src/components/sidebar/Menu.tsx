@@ -55,7 +55,7 @@ const Menu: FC<MenuProps> = ({}) => {
       >
         <Instagram color="#b5179e" /> Instagram
       </List>
-      <List target="_blank" link="https://github.com/SagnikPal-7" effect="slideUp">
+      <List target="_blank" link="https://github.com/SagnikPal-7?tab=repositories" effect="slideUp">
         <Github color="#2a9d8f" /> Github
       </List>
       <List
