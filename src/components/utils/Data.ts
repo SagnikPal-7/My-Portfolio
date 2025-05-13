@@ -34,7 +34,7 @@ export const projectCard: IProjectSectionCardData[] = [
     title: 'Med On Time',
     techStack: 'ReactJS, Tailwind CSS',
     imageUrl: 'hero_image.png',
-    href: 'https://github.com/SagnikPal-7/Med-On-Time',
+    href: 'https://medontime.vercel.app/',
   },
   {
     id: 2,
@@ -49,14 +49,14 @@ export const projectCard: IProjectSectionCardData[] = [
     techStack:
       'Mongoose, Express, React.js,NodeJs, Tailwind CSS',
     imageUrl: 'chat-app.jpeg',
-    href: 'https://github.com/SagnikPal-7/Chat-app',
+    href: 'https://chat-app-fv9e.onrender.com/',
   },
   {
     id: 4,
     title: 'Ecommerce-Mern [Under Development]',
     techStack: 'HTML, Nodejs, Express, ReactJS, Tailwind CSS',
     imageUrl: 'ecommerce.png',
-    href: 'https://github.com/SagnikPal-7/ecommerce-mern',
+    href: 'https://ecommerce-mern-omega-one.vercel.app/',
   },
 ];
 
