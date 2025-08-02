@@ -66,7 +66,7 @@ const TechStack: FC<TechStackProps> = ({}) => {
           ]}
         />
         <TechCard
-          title="Machine Learning"
+          title="Machine Learning (Learning in Progress)"
           classaName="bg-[#e0558a]"
           tech={[
             "Matplotlib",
