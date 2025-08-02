@@ -42,16 +42,6 @@ const TechStack: FC<TechStackProps> = ({}) => {
           ]}
         />
         <TechCard
-          title="Languages"
-          classaName="bg-[#e0558a]"
-          tech={[
-            "Java",
-            "Python",
-            "C++",
-            "C" /*'PostgreSQL', 'Redis', 'Elastic Search'*/,
-          ]}
-        />
-        <TechCard
           title="Version Control Systems"
           classaName="bg-[#e0558a]"
           tech={["GIT", "Github" /*'PostgreSQL', 'Redis', 'Elastic Search'*/]}
@@ -66,15 +56,24 @@ const TechStack: FC<TechStackProps> = ({}) => {
           ]}
         />
         <TechCard
-          title="Machine Learning (Learning in Progress)"
+          title="ML (Learning in Progress)"
           classaName="bg-[#e0558a]"
           tech={[
             "Matplotlib",
             "Numpy",
             "Scikit-learn",
-
             "Pandas",
             "Joblib" /*'PostgreSQL', 'Redis', 'Elastic Search'*/,
+          ]}
+        />
+        <TechCard
+          title="Languages"
+          classaName="bg-[#e0558a]"
+          tech={[
+            "Java",
+            "Python",
+            "C++",
+            "C" /*'PostgreSQL', 'Redis', 'Elastic Search'*/,
           ]}
         />
       </div>
