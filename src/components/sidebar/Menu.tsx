@@ -1,4 +1,6 @@
-import { FC } from 'react';
+import { FC } from "react";
+//import { HugeiconsIcon } from "@hugeicons/react";
+// import { LeetcodeIcon } from "@hugeicons-pro/core-solid-standard";
 import {
   Code,
   Flame,
@@ -16,9 +18,9 @@ import {
   Video,
   X,
   Youtube,
-} from 'lucide-react';
-import List from '../ui/List';
-import { useMenu } from '../Provider';
+} from "lucide-react";
+import List from "../ui/List";
+import { useMenu } from "../Provider";
 
 interface MenuProps {}
 
@@ -36,13 +38,22 @@ const Menu: FC<MenuProps> = ({}) => {
       <List link="/" effect="slideUp">
         <Home /> Home
       </List>
-      <List link="/" effect="slideUp">
+      {/* <List link="/" effect="slideUp">
         <Flame /> Trending
+      </List> */}
+      <List
+        target="_blank"
+        link="https://leetcode.com/u/sagnikp62/"
+        effect="slideUp"
+      >
+        {/* <HugeiconsIcon icon={} /> */}
+        <Code /> LeetCode
       </List>
-      <List link="/" effect="slideUp">
-        <Code /> Snippets
-      </List>
-      <List link="https://instagram.com/sagnik_mahi_pal?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" effect="slideUp">
+      <List
+        target="_blank"
+        link="https://www.youtube.com/channel/UCxbzIzyqretygYqW6oqNOxQ"
+        effect="slideUp"
+      >
         <Video /> Videos
       </List>
 
@@ -50,27 +61,27 @@ const Menu: FC<MenuProps> = ({}) => {
       <div className="mt-5">Socials</div>
       <List
         target="_blank"
-        link="https://instagram.com/sagnik_mahi_pal?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"
+        link="https://www.instagram.com/smp_philophobia_7/"
         effect="slideUp"
       >
         <Instagram color="#b5179e" /> Instagram
       </List>
-      <List target="_blank" link="https://github.com/SagnikPal-7?tab=repositories" effect="slideUp">
+      <List
+        target="_blank"
+        link="https://github.com/SagnikPal-7?tab=repositories"
+        effect="slideUp"
+      >
         <Github color="#2a9d8f" /> Github
       </List>
       <List
         target="_blank"
-        link="#"
+        link="https://www.youtube.com/channel/UCxbzIzyqretygYqW6oqNOxQ"
         effect="slideUp"
       >
         <Youtube color="#e63946" /> Youtube
       </List>
-{/*       <List
-        target="_blank"
-        link="#"
-        effect="slideUp"
-      >
-        <Layers color="#f77f00" /> Stack overflow
+      {/* <List target="_blank" link="#" effect="slideUp">
+        <Layers color="#f77f00" /> LeetCode
       </List> */}
       <List
         target="_blank"

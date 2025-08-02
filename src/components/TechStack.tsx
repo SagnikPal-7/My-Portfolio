@@ -1,5 +1,5 @@
-import { FC } from 'react';
-import TechCard from './Card/TechCard';
+import { FC } from "react";
+import TechCard from "./Card/TechCard";
 
 interface TechStackProps {}
 
@@ -14,24 +14,68 @@ const TechStack: FC<TechStackProps> = ({}) => {
           title="Frontend"
           classaName="bg-[#4f91f2]"
           tech={[
-            'HTML',
-            'CSS',
-            'Tailwind',
-            'Javascript',
-            'Typescript',
-            'React Js',
-            'Next Js',
+            "HTML",
+            "CSS",
+            "Tailwind",
+            "Javascript",
+            "Bootstrap",
+            "React Js",
+            "Next Js",
           ]}
         />
         <TechCard
           title="Backend"
           classaName="bg-[#f37c36]"
-          tech={['Node Js', 'Express Js',/*'BUN Js', 'Elysia', 'Next Auth'*/]}
+          tech={[
+            "Node Js",
+            "Express Js",
+            "Socket Io" /*'BUN Js', 'Elysia', 'Next Auth'*/,
+          ]}
         />
         <TechCard
           title="Database"
           classaName="bg-[#e0558a]"
-          tech={['MySql', 'MongoDB', /*'PostgreSQL', 'Redis', 'Elastic Search'*/]}
+          tech={[
+            "MySql",
+            "MongoDB",
+            "SQL" /*'PostgreSQL', 'Redis', 'Elastic Search'*/,
+          ]}
+        />
+        <TechCard
+          title="Languages"
+          classaName="bg-[#e0558a]"
+          tech={[
+            "Java",
+            "Python",
+            "C++",
+            "C" /*'PostgreSQL', 'Redis', 'Elastic Search'*/,
+          ]}
+        />
+        <TechCard
+          title="Version Control Systems"
+          classaName="bg-[#e0558a]"
+          tech={["GIT", "Github" /*'PostgreSQL', 'Redis', 'Elastic Search'*/]}
+        />
+
+        <TechCard
+          title="CMS and UI/UX design"
+          classaName="bg-[#e0558a]"
+          tech={[
+            "Figma",
+            "Wordpress" /*'PostgreSQL', 'Redis', 'Elastic Search'*/,
+          ]}
+        />
+        <TechCard
+          title="Machine Learning"
+          classaName="bg-[#e0558a]"
+          tech={[
+            "Matplotlib",
+            "Numpy",
+            "Scikit-learn",
+
+            "Pandas",
+            "Joblib" /*'PostgreSQL', 'Redis', 'Elastic Search'*/,
+          ]}
         />
       </div>
     </div>
