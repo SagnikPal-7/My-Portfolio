@@ -78,7 +78,7 @@ export const moreProjects = [
     id: 3,
     title: "Hotstar Clone",
     techStack: "HTML, CSS, Javascript",
-    icon: "lottery",
+    icon: "movie",
     href: "https://github.com/SagnikPal-7/Hotstar-Clone",
   },
 
