@@ -34,7 +34,7 @@ export const projectCard: IProjectSectionCardData[] = [
     title: "Ride Sharing App (Web Phone App)",
     techStack: "ReactJS, Tailwind CSS",
     imageUrl: "ride sharing app.jpg",
-    href: "https://medontime.vercel.app/",
+    href: "https://ride-sharing-psi.vercel.app/",
   },
   {
     id: 2,
