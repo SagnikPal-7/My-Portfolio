@@ -64,7 +64,7 @@ export const moreProjects = [
     id: 1,
     title: "Med On Time",
     techStack: "ReactJS, Tailwind CSS",
-    icon: "share",
+    icon: "delivery-truck",
     href: "https://medontime.vercel.app/",
   },
   {
