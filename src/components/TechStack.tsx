@@ -55,11 +55,11 @@ const TechStack: FC<TechStackProps> = ({}) => {
             "Wordpress" /*'PostgreSQL', 'Redis', 'Elastic Search'*/,
           ]}
         />
-        {/* <TechCard
+        <TechCard
           title="ML (Learning in Progress)"
           classaName="bg-[#e0558a]"
           tech={["Matplotlib", "Numpy", "Scikit-learn", "Pandas", "Joblib"]}
-        /> */}
+        />
         <TechCard
           title="Languages"
           classaName="bg-[#e0558a]"
