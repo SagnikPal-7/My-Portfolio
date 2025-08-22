@@ -9,7 +9,7 @@ const ProfileName: FC<ProfileNameProps> = ({}) => {
   return (
     <div className="text-3xl flex flex-col font-bold text-highlight">
       Sagnik Pal
-      <div className="text-thin font-medium flex justify-between items-center">
+      <div className="text-sm font-thin flex justify-between items-center">
         @sagnik_pal
         {/* Full-stack MERN developer passionate about building scalable web
         applications, with strong problem-solving skills demonstrated by solving
