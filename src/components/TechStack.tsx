@@ -62,9 +62,9 @@ const TechStack: FC<TechStackProps> = ({}) => {
             "Numpy",
             "Pandas",
             "Scikit-learn",
+            "PyTorch",
             "Matplotlib",
             "TensorFlow",
-            "PyTorch",
           ]}
         />
         <TechCard
