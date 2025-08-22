@@ -10,7 +10,10 @@ const ProfileName: FC<ProfileNameProps> = ({}) => {
     <div className="text-3xl flex flex-col font-bold text-highlight">
       Sagnik Pal
       <div className="text-sm font-thin flex justify-between items-center">
-        @sagnik_pal
+        🚀 Full-stack MERN developer passionate about building scalable web
+        applications, with strong problem-solving skills demonstrated by solving
+        350+ DSA questions on LeetCode. 💡 Currently exploring Machine Learning
+        and Cloud Computing, with solid expertise in Java, C++, and Python.
         <Link
           className="block md:hidden"
           href="https://www.instagram.com/smp_philophobia_7/"
