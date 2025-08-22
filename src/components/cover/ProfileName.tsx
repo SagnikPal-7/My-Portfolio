@@ -13,7 +13,7 @@ const ProfileName: FC<ProfileNameProps> = ({}) => {
         <li>
           🚀 Full-stack MERN developer passionate about building scalable web
           applications, with strong problem-solving skills demonstrated by
-          solving 350+ DSA questions on LeetCode.{" "}
+          solving 350+ DSA questions on LeetCode.
         </li>
         <li>
           💡 Currently exploring Machine Learning and Cloud Computing, with
