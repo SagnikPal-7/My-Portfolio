@@ -61,6 +61,11 @@ const TechStack: FC<TechStackProps> = ({}) => {
           tech={["Matplotlib", "Numpy", "Scikit-learn", "Pandas", "Joblib"]}
         />
         <TechCard
+          title="Cloud Computing"
+          classaName="bg-[#e0558a]"
+          tech={["AWS", "Docker", "Kubernetes"]}
+        />
+        <TechCard
           title="Languages"
           classaName="bg-[#e0558a]"
           tech={[
