@@ -20,7 +20,6 @@ const TechStack: FC<TechStackProps> = ({}) => {
             "Javascript",
             "Bootstrap",
             "React Js",
-            "Next Js",
           ]}
         />
         <TechCard
@@ -56,16 +55,9 @@ const TechStack: FC<TechStackProps> = ({}) => {
           ]}
         />
         <TechCard
-          title="ML (Learning in Progress)"
+          title="Python Libraries"
           classaName="bg-[#e0558a]"
-          tech={[
-            "Numpy",
-            "Pandas",
-            "Scikit-learn",
-            "PyTorch",
-            "Matplotlib",
-            "TensorFlow",
-          ]}
+          tech={["Numpy", "Pandas"]}
         />
         <TechCard
           title="Cloud Computing"
