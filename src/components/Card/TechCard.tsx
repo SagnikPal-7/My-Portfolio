@@ -33,7 +33,7 @@ const TechCard: FC<TechCardProps> = ({ title, classaName, tech }) => {
               item === "Socket Io" && "border border-red-500/60",
               item === "Python" && "border border-yellow-500/60",
               item === "Java" && "border border-blue-500/60",
-              item === "Figma" && "border border-blue-500/60",
+              item === "Kafka" && "border border-blue-500/60",
               item === "GIT" && "border border-orange-500/60",
               item === "SQL" && "border border-purple-500/60",
               item === "AWS" && "border border-yellow-500/60",
