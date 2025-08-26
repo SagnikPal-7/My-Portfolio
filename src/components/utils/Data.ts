@@ -32,28 +32,29 @@ export const projectCard: IProjectSectionCardData[] = [
   {
     id: 1,
     title: "Ride Sharing App (Web Phone App)",
-    techStack: "ReactJS, Tailwind CSS",
+    techStack:
+      "MERN, Tailwind CSS, Twilio API, Google Maps API, Stripe Pay API",
     imageUrl: "ride sharing app.jpg",
     href: "https://ride-sharing-psi.vercel.app/",
   },
   {
     id: 2,
     title: "Financesmart (Expense Tracker)",
-    techStack: "Node js., Tailwind CSS, Express js. MongoDB, JWT, Cloudinary",
+    techStack: "Node.js, Tailwind CSS, Express.js, MongoDB, JWT, Cloudinary",
     imageUrl: "book-ecom2.jpg",
     href: "https://financesmart-bc8j.vercel.app/",
   },
   {
     id: 3,
     title: "Chat App",
-    techStack: "Mongoose, Express, React.js,NodeJs, Tailwind CSS",
+    techStack: "MongoDB, Express.js, React.js, Node.js, Tailwind CSS",
     imageUrl: "chat-app.jpeg",
     href: "https://chat-app-fv9e.onrender.com/",
   },
   {
     id: 4,
     title: "Food Ordering Website",
-    techStack: "HTML, Nodejs, Express, ReactJS, Tailwind CSS",
+    techStack: "MongoDB, Node.js, Express.js, React.js",
     imageUrl: "food delivery.jpg",
     href: "https://food-delivery-wine-tau.vercel.app/",
   },
