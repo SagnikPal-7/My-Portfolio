@@ -46,7 +46,8 @@ const TechStack: FC<TechStackProps> = ({}) => {
           classaName="bg-[#e0558a]"
           tech={[
             "Docker",
-            "Kubernetes" /*'PostgreSQL', 'Redis', 'Elastic Search'*/,
+            "Kubernetes",
+            "Kafka" /*'PostgreSQL', 'Redis', 'Elastic Search'*/,
           ]}
         />
         <TechCard
