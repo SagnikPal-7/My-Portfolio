@@ -25,11 +25,7 @@ const TechStack: FC<TechStackProps> = ({}) => {
         <TechCard
           title="Backend"
           classaName="bg-[#f37c36]"
-          tech={[
-            "Node Js",
-            "Express Js",
-            "Socket Io" /*'BUN Js', 'Elysia', 'Next Auth'*/,
-          ]}
+          tech={["Node Js", "Socket Io" /*'BUN Js', 'Elysia', 'Next Auth'*/]}
         />
         <TechCard
           title="Database"
@@ -37,7 +33,7 @@ const TechStack: FC<TechStackProps> = ({}) => {
           tech={[
             "MySql",
             "MongoDB",
-            "SQL" /*'PostgreSQL', 'Redis', 'Elastic Search'*/,
+            /*"SQL"'PostgreSQL', 'Redis', 'Elastic Search'*/
           ]}
         />
         <TechCard
@@ -45,32 +41,32 @@ const TechStack: FC<TechStackProps> = ({}) => {
           classaName="bg-[#e0558a]"
           tech={["GIT", "Github" /*'PostgreSQL', 'Redis', 'Elastic Search'*/]}
         />
-
         <TechCard
-          title="CMS and UI/UX design"
+          title="DevOps"
           classaName="bg-[#e0558a]"
           tech={[
-            "Figma",
-            "Wordpress" /*'PostgreSQL', 'Redis', 'Elastic Search'*/,
+            "Docker",
+            "Kubernetes" /*'PostgreSQL', 'Redis', 'Elastic Search'*/,
           ]}
+        />
+        <TechCard
+          title="Cloud Computing (Learning)"
+          classaName="bg-[#e0558a]"
+          tech={["AWS"]}
         />
         <TechCard
           title="Python Libraries"
           classaName="bg-[#e0558a]"
           tech={["Numpy", "Pandas"]}
         />
-        <TechCard
-          title="Cloud Computing"
-          classaName="bg-[#e0558a]"
-          tech={["AWS", "Docker", "Kubernetes"]}
-        />
+
         <TechCard
           title="Languages"
           classaName="bg-[#e0558a]"
           tech={[
             "Java",
-            "Python",
             "C++",
+            "Python",
             "C" /*'PostgreSQL', 'Redis', 'Elastic Search'*/,
           ]}
         />
