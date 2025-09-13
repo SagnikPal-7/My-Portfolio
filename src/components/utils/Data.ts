@@ -39,10 +39,11 @@ export const projectCard: IProjectSectionCardData[] = [
   },
   {
     id: 2,
-    title: "Prescripto (Appointment booking site)",
-    techStack: "Node.js, Tailwind CSS, Express.js, MongoDB, JWT, Cloudinary",
-    imageUrl: "book-ecom2.jpg",
-    href: "https://financesmart-bc8j.vercel.app/",
+    title: "Prescripto (Under Development)",
+    techStack:
+      "MERN, Tailwind CSS, Stripe Pay API, Cloudinary, CI/CD Pipeline, Docker, AWS",
+    imageUrl: "appointment-booking.jpg",
+    href: "https://github.com/SagnikPal-7/Doctor-s-Appointment",
   },
   {
     id: 3,
