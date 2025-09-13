@@ -39,7 +39,7 @@ export const projectCard: IProjectSectionCardData[] = [
   },
   {
     id: 2,
-    title: "Financesmart (Expense Tracker)",
+    title: "Prescripto (Appointment booking site)",
     techStack: "Node.js, Tailwind CSS, Express.js, MongoDB, JWT, Cloudinary",
     imageUrl: "book-ecom2.jpg",
     href: "https://financesmart-bc8j.vercel.app/",
@@ -63,33 +63,32 @@ export const projectCard: IProjectSectionCardData[] = [
 export const moreProjects = [
   {
     id: 1,
+    title: "Financesmart (Expense Tracker)",
+    techStack: "Node.js, Tailwind CSS, Express.js, MongoDB, JWT, Cloudinary",
+    icon: "game",
+    href: "https://financesmart-bc8j.vercel.app/",
+  },
+  {
+    id: 2,
     title: "Med On Time",
     techStack: "ReactJS, Tailwind CSS",
     icon: "share",
     href: "https://medontime.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "E-Commerce Website",
     techStack: "CSS, HTML, Javascript",
     icon: "shirt",
     href: "https://github.com/SagnikPal-7/E-Commerce-Website",
   },
   {
-    id: 3,
+    id: 4,
     title: "Hotstar Clone",
     techStack: "HTML, CSS, Javascript",
     icon: "lottery",
     href: "https://github.com/SagnikPal-7/Hotstar-Clone",
   },
-
-  // {
-  //   id: 4,
-  //   title: 'Snake Game',
-  //   techStack: 'Next.js 13, Tailwind CSS, Typescript',
-  //   icon: 'game',
-  //   href: '#',
-  // },
 ];
 
 export const frontendCard: ISectionCardData[] = [
