@@ -45,9 +45,11 @@ const TechStack: FC<TechStackProps> = ({}) => {
           title="DevOps"
           classaName="bg-[#e0558a]"
           tech={[
+            "Kafka",
+            "CI/CD Pipelines",
             "Docker",
             "Kubernetes",
-            "Kafka" /*'PostgreSQL', 'Redis', 'Elastic Search'*/,
+            /*'PostgreSQL', 'Redis', 'Elastic Search'*/
           ]}
         />
         <TechCard
@@ -67,8 +69,7 @@ const TechStack: FC<TechStackProps> = ({}) => {
           tech={[
             "Java",
             "C++",
-            "Python",
-            "C" /*'PostgreSQL', 'Redis', 'Elastic Search'*/,
+            "C" /*'PostgreSQL',"Python", 'Redis', 'Elastic Search'*/,
           ]}
         />
       </div>
