@@ -65,7 +65,7 @@ export const moreProjects = [
     id: 1,
     title: "Financesmart (Expense Tracker)",
     techStack: "Node.js, Tailwind CSS, Express.js, MongoDB, JWT, Cloudinary",
-    icon: "game",
+    icon: "currency-rupee",
     href: "https://financesmart-bc8j.vercel.app/",
   },
   {

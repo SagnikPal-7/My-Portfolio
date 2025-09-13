@@ -51,15 +51,15 @@ const TechStack: FC<TechStackProps> = ({}) => {
           ]}
         />
         <TechCard
-          title="Cloud Computing (Learning)"
+          title="Cloud Computing (Basics)"
           classaName="bg-[#e0558a]"
           tech={["AWS"]}
         />
-        <TechCard
+        {/* <TechCard
           title="Python Libraries"
           classaName="bg-[#e0558a]"
           tech={["Numpy", "Pandas"]}
-        />
+        /> */}
 
         <TechCard
           title="Languages"
